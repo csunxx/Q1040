@@ -1,1 +1,4 @@
-Outline of 1040
+## Outline of teaching 
+
+The outline I used for tutorials. 
+
